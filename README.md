@@ -34,13 +34,13 @@ npm -v
 To install git, run below commands in the terminal window:
 
 ```bash
-sudo apt-get update -y
-sudo apt-get install git -y
+yum update -y
+yum install git -y
 ```
 
 Just to verify if system has git installed or not, please run below command in terminal:
 ```bash
-git — version
+git -- version
 ```
 
 This command will print the git version in the terminal.
@@ -48,7 +48,7 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
+git clone https://github.com/sajid-Electromech/Ec2-Nodejs-Application.git
 ```
 
 Get inside the directory and Install Packages
