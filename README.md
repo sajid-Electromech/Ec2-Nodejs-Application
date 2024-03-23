@@ -1,5 +1,4 @@
-# Node Linux-Cloud-Workshop
-
+# Installation Basic Nodejs application on EC2
 Simple node.js app that servers "Welcome to Linux-Cloud Workshop"
 
 Great for testing simple deployments on Cloud
