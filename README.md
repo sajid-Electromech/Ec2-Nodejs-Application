@@ -1,4 +1,4 @@
-# Node Hello World
+# Node Linux-Cloud-Workshop
 
 Simple node.js app that servers "Welcome to Linux-Cloud Workshop"
 
