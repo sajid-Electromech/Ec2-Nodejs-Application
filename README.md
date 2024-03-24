@@ -53,7 +53,7 @@ git clone https://github.com/sajid-Electromech/Ec2-Nodejs-Application.git
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd Ec2-Nodejs-Application
 npm install
 ```
 
